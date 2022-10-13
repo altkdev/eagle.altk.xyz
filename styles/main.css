@@ -3,7 +3,10 @@ body {
   font-family: arial;
 }
 
-h1, h2 {
+h2 {
   color: #555;
 }
 
+h3 {
+  color: #666;
+}
