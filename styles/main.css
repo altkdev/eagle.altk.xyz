@@ -6,7 +6,7 @@ body {
 
 
 a {
-  color: #555;
+  color: white;
 }
 
 p {
@@ -23,7 +23,7 @@ nav ul {
 }
 
 nav ul li {
-  background: #999;
+  background: black;
   display: inline-block;
   list-style-type: none;
   padding: 5px 15px;
