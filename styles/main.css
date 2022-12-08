@@ -5,6 +5,7 @@ body {
 }
 
 p {
+  clear: both;
   color: #555;
 }
 
@@ -28,6 +29,7 @@ nav ul {
 }
 
 nav ul li {
+  color: white;
   background: black;
   display: inline-block;
   list-style-type: none;
@@ -41,8 +43,7 @@ nav ul li {
 
 .col {
   background: #333;
-  border-radius:5px;
-  
+  border-radius:5px;  
   float: left;
   padding: 5px .5%;
   margin: .5%;
