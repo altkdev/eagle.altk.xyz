@@ -6,7 +6,7 @@ body {
 
 .main-text {
   float: left;
-  width: 75%;
+  width: 55%;
   overflow-wrap: break-word;
   display: inline-block;
   color: #555;
