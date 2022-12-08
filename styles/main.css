@@ -4,11 +4,13 @@ body {
   margin: 0;
 }
 
-p {
-  position: center;
+.main-text {
+  float: left;
+  width: 75%;
   overflow-wrap: break-word;
   display: inline-block;
   color: #555;
+  background-color: #444;
 }
 
 a {
