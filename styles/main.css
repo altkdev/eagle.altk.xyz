@@ -5,7 +5,9 @@ body {
 }
 
 p {
-  clear: both;
+  position: center;
+  overflow-wrap: break-word;
+  display: inline-block;
   color: #555;
 }
 
