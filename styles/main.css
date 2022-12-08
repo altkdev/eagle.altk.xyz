@@ -1,14 +1,31 @@
 body {
   background:#999;
   font-family: arial;
+  margin: 0;
 }
 
 
 a {
-  color: purple;
+  color: #666;
 }
 
 p {
   color: #666;
+}
+
+header {
+  background: #999;
+  margin: 0;
+}
+
+nav ul {
+  margin: 0;
+}
+
+nav ul li {
+  background: #999;
+  display: inline-block;
+  list-style-type: none;
+  padding: 5px 15px;
 }
 
