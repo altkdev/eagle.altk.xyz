@@ -7,8 +7,18 @@ h1 {
   color: #555;
 }
 
+a {
+  background: #555;
+  color: purple;
+}
+
 p {
-  background: #666;
+  background: #555;
   color: white;
   padding: 10px 30px;
+}
+
+.selected {
+  background: #444;
+  color: blue;
 }
