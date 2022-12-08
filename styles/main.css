@@ -4,19 +4,24 @@ body {
   margin: 0;
 }
 
+p {
+  color: #555;
+}
 
 a {
   color: white;
 }
 
-p {
-  color: #555;
+header {
+  background: #444;
+  padding: 15px 15px 0px 15px;
 }
 
-header {
-  background: #999;
+header h1 {
   margin: 0;
+  display: inline;
 }
+
 
 nav ul {
   margin: 0;
@@ -27,5 +32,29 @@ nav ul li {
   display: inline-block;
   list-style-type: none;
   padding: 5px 15px;
+  border-radius: 5px;
 }
+
+.row {
+  
+}
+
+.col {
+  background: #333;
+  border-radius:5px;
+  
+  float: left;
+  padding: 5px .5%;
+  margin: .5%;
+  width: 31%;
+}
+
+footer {
+  clear: both;
+}
+
+
+
+
+
 
