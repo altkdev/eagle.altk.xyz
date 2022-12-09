@@ -55,11 +55,8 @@ nav ul li {
 }
 
 footer {
+  position: absolute;
   clear: both;
+  bottom: 100%;
+  margin: 1px;
 }
-
-
-
-
-
-
