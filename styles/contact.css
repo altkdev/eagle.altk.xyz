@@ -1,0 +1,46 @@
+body {
+  background:#999;
+  font-family: arial;
+  margin: 0;
+}
+
+a {
+  color: white;
+}
+
+header {
+  background: #444;
+  padding: 15px 15px 0px 15px;
+}
+
+header h1 {
+  margin: 0;
+  display: inline;
+}
+
+
+nav ul {
+  margin: 0;
+}
+
+nav ul li {
+  color: white;
+  background: black;
+  display: inline-block;
+  list-style-type: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+
+footer {
+  position: absolute;
+  clear: both;
+  bottom: 100%;
+  margin: 1px;
+}
+
+.links {
+  color: black;
+  float: left;
+}
+  
