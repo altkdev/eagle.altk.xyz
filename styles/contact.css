@@ -42,5 +42,6 @@ footer {
 .links {
   color: black;
   float: left;
+  display: none;
 }
   
