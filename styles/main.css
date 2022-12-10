@@ -4,15 +4,6 @@ body {
   margin: 0;
 }
 
-.main-text {
-  float: left;
-  width: 55%;
-  overflow-wrap: break-word;
-  display: inline-block;
-  color: #555;
-  background-color: #444;
-}
-
 a {
   color: white;
 }
@@ -39,19 +30,6 @@ nav ul li {
   list-style-type: none;
   padding: 5px 15px;
   border-radius: 5px;
-}
-
-.row {
-  
-}
-
-.col {
-  background: #333;
-  border-radius:5px;  
-  float: left;
-  padding: 5px .5%;
-  margin: .5%;
-  width: 31%;
 }
 
 footer {
