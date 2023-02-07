@@ -42,6 +42,6 @@ footer {
 .links {
   color: black;
   float: left;
-  display: list-item;
+  display: table-row;
 }
   
