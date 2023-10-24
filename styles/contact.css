@@ -47,10 +47,18 @@ footer {
   
 .footer{
 bottom: 100vh;
-background:#00fffb;
+background:#730000;
 padding:0px 30px;
 font-family: 'Play', sans-serif;
 text-align:center;
+}
+
+.footer .social row{ 
+  width: 75%;
+  margin:1% 0%;
+  padding:0.6% 0%;
+  color:gray;
+  font-size:1.0em;
 }
 
 .footer .row{
@@ -72,13 +80,13 @@ font-size:0.8em;
   color:#ff00ee;
 }
 
-.footer .row a{
+.footer a{
   text-decoration:none;
   color:gray;
   transition:0.5s;
 }
 
-.footer .row a:hover{
+.footer a:hover{
   color:#fff;
 }
 
