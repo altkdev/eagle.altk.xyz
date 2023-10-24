@@ -5,7 +5,7 @@ body {
 }
 
 nav ul li a {
-  color: white;
+  color: #575766;
 }
 
 header {
@@ -15,6 +15,7 @@ header {
 
 header h1 {
   margin: 0;
+  color: #575766;
   display: inline;
 }
 
@@ -24,8 +25,8 @@ nav ul {
 }
 
 nav ul li {
-  color: white;
-  background: black;
+  color: #575766;
+  background: #3439ba;
   display: inline-block;
   list-style-type: none;
   padding: 5px 15px;
