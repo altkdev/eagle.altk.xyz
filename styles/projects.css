@@ -34,6 +34,7 @@ nav ul li {
 }
 
 .footer{
+position: absolute;
 bottom: 100vh;
 background:#730000;
 padding:0px 30px;
