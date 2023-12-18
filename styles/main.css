@@ -17,6 +17,7 @@ header h1 {
   margin: 0;
   color: #575766;
   display: inline;
+  padding: 10px;
 }
 
 
@@ -83,7 +84,7 @@ font-size:0.8em;
 
 .footer .row a i{
   font-size:2em;
-  margin:0% 1%;
+  margin:0% 1%
 }
 
 @media (max-width:720px){
@@ -101,4 +102,8 @@ font-size:0.8em;
   .footer .row a i{
     margin:0% 3%;
   }
+}
+
+.footer .cr-row{
+  padding: 15px;
 }
